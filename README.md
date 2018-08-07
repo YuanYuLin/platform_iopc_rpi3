@@ -1,1 +1,1 @@
-# platform_iopc_rpi3
+# platform_iopc_rpi2
